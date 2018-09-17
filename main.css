@@ -1,0 +1,23 @@
+*{
+    background-color: black;
+}
+
+#appleLogo{
+    position: relative;
+    bottom: 1.5px;
+}
+#shoppingBag {
+    position: relative;
+    bottom: 3px;
+}
+#mainNav {
+    top: 50px;
+}
+
+.textCenter {
+    text-align: center;
+}
+
+.pictureHeight {
+    max-height: 590px;
+}
